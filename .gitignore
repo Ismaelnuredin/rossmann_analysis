@@ -1,0 +1,4 @@
+Data
+.venv
+streamlit
+*.pkl
